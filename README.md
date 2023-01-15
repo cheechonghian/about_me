@@ -1,6 +1,6 @@
 #  My research portfolio
 
-PhD Student / Angelakis Research Group, Singapore\
+PhD Student / Angelakis Research Group, Singapore
 
 ### Upcoming Project:
 
