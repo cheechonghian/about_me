@@ -1,9 +1,15 @@
 #  My research portfolio
 
+PhD Student / Angelakis Research Group, Singapore\
+
+### Upcoming Project:
+
+Jan 2023\
+(Project Title To Be Confirmed)
+
 ### Latest Project:
 
 Aug 2022\
-PhD Student / Angelakis Research Group, Singapore\
 Computing Electronic Correlation Energies using Linear Depth Quantum Circuits: [Paper](http://arxiv.org/abs/2207.03949)
 
 ### Past Projects:
