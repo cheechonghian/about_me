@@ -8,7 +8,7 @@ Jan 2023\
 Shallow quantum circuits for efficient preparation of Slater determinants and correlated states on a quantum computer: [Paper](https://arxiv.org/abs/2301.07477)
 
 
-We are proposing an efficient, yet scalable approach to prepare fermionic ansatz states on a quantum computer for quantum chemistry and material applications.
+We propose an efficient, yet scalable approach to prepare fermionic ansatz states on a quantum computer for quantum chemistry and material applications.
 In particular, we show how to prepare Slater determinants (a fermionic one-body product state) and correlated ansatz by applying a unique sequence of standard fermionic excitation operators to a vacuum state.
 This yields a shallow quantum circuit that scales subexponentially better in two-qubit gate depth over existing approaches with the number of qubits.
 Moreover, our quantum circuit is compatible on existing quantum devices with planar qubit architectures without requiring any expensive qubit swapping overheads.
