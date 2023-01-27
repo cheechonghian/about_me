@@ -46,22 +46,22 @@ Investigated methods to solve systems of linear equations on quantum computer.
 Apr 2021, Quantum Floquet Theory ([Slides](https://github.com/cheechonghian/about_me/blob/main/1_phd/0_talks/Floquet.ppsx)) <br>
 Physically Given at QT5198 Graduate seminar in Quantum Information, CQT, NUS, Singapore <br>
 Quick Video: <br>
-![](https://github.com/cheechonghian/about_me/blob/main/1_phd/0_talks/Floquet.gif)
+![](https://github.com/cheechonghian/about_me/blob/main/1_phd/0_talks/Floquet.gif | width=100)
 
 ### Notable Fun Projects
 
 #### Graduate:
 Project 1: Estimated a hydrogen molecule bonding energy using Monte Carlo sampling. <br>
-![image](https://github.com/cheechonghian/about_me/blob/main/1_phd/1_mod/h2_monte_carlo.png)
+![image](https://github.com/cheechonghian/about_me/blob/main/1_phd/1_mod/h2_monte_carlo.png | width=100)
 
 Project 2: Performed a numerical 1D simulation of a moving quantum wave packet colliding against a wall. <br>
 Rectangular Wall (with a flat top):<br>
-![](https://github.com/cheechonghian/about_me/blob/main/1_phd/1_mod/tunneling_rect.gif)
+![](https://github.com/cheechonghian/about_me/blob/main/1_phd/1_mod/tunneling_rect.gif | width=100)
 
 Parabolic Wall (with a pointy top):<br>
-![](https://github.com/cheechonghian/about_me/blob/main/1_phd/1_mod/tunneling_para.gif)
+![](https://github.com/cheechonghian/about_me/blob/main/1_phd/1_mod/tunneling_para.gif | width=100
 
 #### Undergraduate:
 Project 1: Build a 3D‑printed Arduino robot to follow a black line on a white floor.<br>
 My First Robot!<br>
-![](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/my_first_robot.gif)
+![](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/my_first_robot.gif | width=100)
