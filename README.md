@@ -44,8 +44,8 @@ Investigated methods to solve systems of linear equations on quantum computer.
 ### Notable Oral Presentations
 
 Apr 2021, Quantum Floquet Theory ([Slides](https://github.com/cheechonghian/about_me/blob/main/1_phd/0_talks/Floquet.ppsx)) <br>
-Physically Given at QT5198 Graduate seminar in Quantum Information, CQT, NUS, Singapore <br>
-Quick Video: <br>
+Physical talk given at QT5198 Graduate seminar in Quantum Information, CQT, NUS, Singapore <br>
+Quick Sample Presentation: <br>
 ![](https://github.com/cheechonghian/about_me/blob/main/1_phd/0_talks/Floquet.gif)
 
 ### Notable Fun Projects
