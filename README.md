@@ -48,7 +48,7 @@ Physically Given at QT5198 Graduate seminar in Quantum Information, CQT, NUS, Si
 Quick Sample: 
 ![](https://github.com/cheechonghian/about_me/blob/main/1_phd/0_talks/Floquet.gif)
 
-### Notable Academic Projects
+### Notable Fun Projects
 
 #### Graduate:
 Project 1: Estimated a hydrogen molecule bonding energy using Monte Carlo sampling. <br>
