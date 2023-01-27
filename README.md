@@ -52,9 +52,7 @@ Quick Video: <br>
 
 #### Graduate:
 Project 1: Estimated a hydrogen molecule bonding energy using Monte Carlo sampling. <br>
-<div style="width: 50%; height: 50%">
-![image](https://github.com/cheechonghian/about_me/blob/main/1_phd/1_mod/h2_monte_carlo.png)
-</div>
+<img src="https://github.com/cheechonghian/about_me/blob/main/1_phd/1_mod/h2_monte_carlo.png" width=50% height=50%>
 
 Project 2: Performed a numerical 1D simulation of a moving quantum wave packet colliding against a wall. <br>
 Rectangular Wall (with a flat top):<br>
