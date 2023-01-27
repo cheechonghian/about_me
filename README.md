@@ -45,7 +45,7 @@ Investigated methods to solve systems of linear equations on quantum computer.
 
 Apr 2021, Quantum Floquet Theory ([Slides](https://github.com/cheechonghian/about_me/blob/main/1_phd/0_talks/Floquet.ppsx)) <br>
 Physically Given at QT5198 Graduate seminar in Quantum Information, CQT, NUS, Singapore <br>
-Quick Sample: 
+Quick Video: <br>
 ![](https://github.com/cheechonghian/about_me/blob/main/1_phd/0_talks/Floquet.gif)
 
 ### Notable Fun Projects
