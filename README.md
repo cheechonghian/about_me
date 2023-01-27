@@ -54,9 +54,9 @@ Project 1: Estimated a hydrogen molecule bonding energy using Monte Carlo sampli
 
 Project 2: Performed a numerical 1D simulation of a moving quantum wave packet colliding against a wall. <br>
 Rectangular Wall:<br>
-![](https://github.com/cheechonghian/about_me/blob/main/1_phd/1_mod/tunneling_rect.png)
+![](https://github.com/cheechonghian/about_me/blob/main/1_phd/1_mod/tunneling_rect.gif)
 
 Parabolic Wall:<br>
-![](https://github.com/cheechonghian/about_me/blob/main/1_phd/1_mod/tunneling_para.png)
+![](https://github.com/cheechonghian/about_me/blob/main/1_phd/1_mod/tunneling_para.gif)
 
 #### Undergraduate:
