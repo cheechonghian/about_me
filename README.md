@@ -83,7 +83,7 @@
 
 ### Fun Stuff:
 
-**Mar 2018** Build a 3D‑printed Arduino robot to follow a black line on a white floor.
+**Mar 2018** Built a working 3D-printed Arduino robot that can follow a black line on a white surface.
 - For an practical engineering module, _PS9886 Making and Tinkering_, designed for science students to build car-like robots from scratch. 
 - My First Robot!<br>
 ![](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/my_first_robot.gif)
