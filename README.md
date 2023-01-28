@@ -1,9 +1,10 @@
 #  My Portfolio
 
-## Research Projects
+## Graduate Projects
+
 ---
 
-###  Ph.D. 
+### Research:
 
 **Jan 2023**, [Shallow quantum circuits for efficient preparation of Slater determinants and correlated states on a quantum computer](https://arxiv.org/abs/2301.07477).
 - We designed an efficient and scalable method of preparing industrially‑relevant chemical states on quantum computers.<br>
@@ -13,25 +14,7 @@
 
 ---
 
-### Undergraduate 
-
-**Jun 2020**, Solving MaxCut Problem using QAOA under a proposed Hybrid Quantum-Classical Parameter Optimisation Strategy. 
-- See [Slides](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/Internship%20Presentation.pdf) / [Full Report](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/Internship%20Report.pdf).
-- Formulated and implemented a fast hybrid quantum-classical algorithm to solve MaxCut graph problems.
-
-
-
-**Dec 2019**, [The Quantum Linear Problem and its Quantum Algorithmic Solutions](https://dr.ntu.edu.sg/handle/10356/138662).
-- See [Slides](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/FYP%20Presentation.pdf) / [Full Report](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/Final_Year_Project_Chee_Chong_Hian.pdf).
-- Investigated methods to solve systems of linear equations on quantum computer.
-
----
-
-## Other Highlights
-
----
-
-### Open Hackatons
+### Open Hackatons:
 
 **Feb 2022**, Qanything-Exploring the Potential Energy Surface (PES) of a Molecule with a Problem-Inspired Ansatz.
 - See [Slides](https://github.com/cheechonghian/Qanything_Chem_Project_Final/blob/main/Qanything%20Results%20Presentation.pdf) / [Source Code](https://github.com/cheechonghian/Qanything_Chem_Project_Final).
@@ -42,23 +25,23 @@
 
 ---
 
-### Cool Presentations
+### Cool Presentations:
 
 **Apr 2021**, Quantum Floquet Theory.
 - See [Slides](https://github.com/cheechonghian/about_me/blob/main/1_phd/0_talks/Floquet.ppsx).
 - Physical talk given at QT5198 Graduate seminar in Quantum Information, CQT, NUS, Singapore.
-- Quick Sample Presentation (~2 min total, 5sec/slide): <br>
+- Quick Sample Presentation (~2 min total, 5sec/slide):<br>
 ![](https://github.com/cheechonghian/about_me/blob/main/1_phd/0_talks/Floquet.gif)
 
 ---
 
-### Interesting Graduate Projects:
+### Interesting Simulations:
 
-**Nov 2020** Performed a numerical 1D simulation of a moving quantum wave packet colliding against a wall. <br>
-- Rectangular Wall (with a flat top):
+**Nov 2020** Performed a numerical 1D simulation of a moving quantum wave packet colliding against a wall.
+- Rectangular Wall (with a flat top):<br>
 ![](https://github.com/cheechonghian/about_me/blob/main/1_phd/1_mod/tunneling_rect.gif)
 
-- Parabolic Wall (with a pointy top):
+- Parabolic Wall (with a pointy top):<br>
 ![](https://github.com/cheechonghian/about_me/blob/main/1_phd/1_mod/tunneling_para.gif)
 
 **Sep 2020** Estimated a hydrogen molecule bonding energy using Monte Carlo sampling. <br>
@@ -66,8 +49,24 @@
 
 ---
 
-### Fun Undergraduate Projects:
+## Undergraduate Projects
 
-**Mar 2018** Build a 3D‑printed Arduino robot to follow a black line on a white floor.<br>
+---
+
+### Research:
+
+**Jun 2020**, Solving MaxCut Problem using QAOA under a proposed Hybrid Quantum-Classical Parameter Optimisation Strategy. 
+- See [Slides](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/Internship%20Presentation.pdf) / [Full Report](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/Internship%20Report.pdf).
+- Formulated and implemented a fast hybrid quantum-classical algorithm to solve MaxCut graph problems.
+
+**Dec 2019**, [The Quantum Linear Problem and its Quantum Algorithmic Solutions](https://dr.ntu.edu.sg/handle/10356/138662).
+- See [Slides](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/FYP%20Presentation.pdf) / [Full Report](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/Final_Year_Project_Chee_Chong_Hian.pdf).
+- Investigated methods to solve systems of linear equations on quantum computer.
+
+---
+
+### Fun Stuff:
+
+**Mar 2018** Build a 3D‑printed Arduino robot to follow a black line on a white floor.
 - My First Robot!<br>
 ![](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/my_first_robot.gif)
