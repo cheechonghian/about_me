@@ -67,10 +67,17 @@
 **Jun 2020**, Solving MaxCut Problem using QAOA under a proposed Hybrid Quantum-Classical Parameter Optimisation Strategy. 
 - See [Slides](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/Internship%20Presentation.pdf) / [Full Report](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/Internship%20Report.pdf).
 - Formulated and implemented a fast hybrid quantum-classical algorithm to solve MaxCut graph problems.
+<p float="left">
+<img src="https://github.com/cheechonghian/about_me/blob/main/0_undergrad/QAOA.png" width=33% height=33%><img src="https://github.com/cheechonghian/about_me/blob/main/0_undergrad/hybrid.png" width=33% height=33%>
+</p>
+<p float="left">
+<img src="https://github.com/cheechonghian/about_me/blob/main/0_undergrad/maxcut2.png" width=33% height=33%><img src="https://github.com/cheechonghian/about_me/blob/main/0_undergrad/maxcut1.png" width=33% height=33%>
+</p>
 
 **Dec 2019**, [The Quantum Linear Problem and its Quantum Algorithmic Solutions](https://dr.ntu.edu.sg/handle/10356/138662).
 - See [Slides](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/FYP%20Presentation.pdf) / [Full Report](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/Final_Year_Project_Chee_Chong_Hian.pdf).
 - Investigated methods to solve systems of linear equations on quantum computer.
+<img src="https://github.com/cheechonghian/about_me/blob/main/0_undergrad/hhl.png" width=50% height=50%>
 
 ---
 
