@@ -9,7 +9,7 @@
 **Jan 2023**, [Shallow quantum circuits for efficient preparation of Slater determinants and correlated states on a quantum computer](https://arxiv.org/abs/2301.07477).
 - We designed an efficient and scalable method (Clifford Loader Approach) of preparing industrially‑relevant chemical states on quantum computers.<br>
 <p float="left">
-<img src="https://github.com/cheechonghian/about_me/blob/main/1_phd/3_research/2_shallow/fig1.svg" width=49% height=49%> <img src="https://github.com/cheechonghian/about_me/blob/main/1_phd/3_research/2_shallow/fig2.svg" width=33% height=33%>
+<img src="https://github.com/cheechonghian/about_me/blob/main/1_phd/3_research/2_shallow/fig1.svg" width=49% height=49%> <img src="https://github.com/cheechonghian/about_me/blob/main/1_phd/3_research/2_shallow/fig2.svg" width=49% height=49%>
 </p>
 **Aug 2022**, [Computing Electronic Correlation Energies using Linear Depth Quantum Circuits](http://arxiv.org/abs/2207.03949).
 - We developed a practical methods for estimating chemical energies using currently available quantum computers.<br>
