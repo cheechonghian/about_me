@@ -29,13 +29,15 @@
 
 **Apr 2021**, Quantum Floquet Theory.
 - See [Slides](https://github.com/cheechonghian/about_me/blob/main/1_phd/0_talks/Floquet.ppsx).
-- Physical talk given at QT5198 Graduate seminar in Quantum Information, CQT, NUS, Singapore.
+- Physical talk given for _QT5198 Graduate seminar in Quantum Information_, CQT, NUS, Singapore.
 - Quick Sample Presentation (~2 min total, 5sec/slide):<br>
 ![](https://github.com/cheechonghian/about_me/blob/main/1_phd/0_talks/Floquet.gif)
 
 ---
 
 ### Interesting Simulations:
+
+- Computational physics projects for _PC5215 Numerical Recipes with Applications_, NUS, Singapore:
 
 **Nov 2020** Performed a numerical 1D simulation of a moving quantum wave packet colliding against a wall.
 - Rectangular Wall (with a flat top):<br>
@@ -68,5 +70,6 @@
 ### Fun Stuff:
 
 **Mar 2018** Build a 3D‑printed Arduino robot to follow a black line on a white floor.
+- For an practical engineering module, _PS9886 Making and Tinkering_, designed for science students to build car-like robots from scratch. 
 - My First Robot!<br>
 ![](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/my_first_robot.gif)
