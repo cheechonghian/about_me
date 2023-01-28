@@ -68,10 +68,10 @@
 - See [Slides](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/Internship%20Presentation.pdf) / [Full Report](https://github.com/cheechonghian/about_me/blob/main/0_undergrad/Internship%20Report.pdf).
 - Formulated and implemented a fast hybrid quantum-classical algorithm to solve MaxCut graph problems.
 <p float="left">
-<img src="https://github.com/cheechonghian/about_me/blob/main/0_undergrad/QAOA.png" width=33% height=33%><img src="https://github.com/cheechonghian/about_me/blob/main/0_undergrad/hybrid.png" width=33% height=33%>
+<img src="https://github.com/cheechonghian/about_me/blob/main/0_undergrad/QAOA.png" width=49% height=49%><img src="https://github.com/cheechonghian/about_me/blob/main/0_undergrad/hybrid.png" width=49% height=49%>
 </p>
 <p float="left">
-<img src="https://github.com/cheechonghian/about_me/blob/main/0_undergrad/maxcut2.png" width=33% height=33%><img src="https://github.com/cheechonghian/about_me/blob/main/0_undergrad/maxcut1.png" width=33% height=33%>
+<img src="https://github.com/cheechonghian/about_me/blob/main/0_undergrad/maxcut2.png" width=49% height=49%><img src="https://github.com/cheechonghian/about_me/blob/main/0_undergrad/maxcut1.png" width=49% height=49%>
 </p>
 
 **Dec 2019**, [The Quantum Linear Problem and its Quantum Algorithmic Solutions](https://dr.ntu.edu.sg/handle/10356/138662).
